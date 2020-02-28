@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Lecutre2HomeWork
+namespace Lecture2HomeWork
 {
     class Calculations02
     {
-        public static void Main6()
+        public static void Calc02()
         {
             int FirstNumber = 5;
             int SecondNumber = 6;

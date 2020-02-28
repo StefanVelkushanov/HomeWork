@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercise2
+namespace Lecture1HomeWork
 {
     class Math4
     {
-        public static void Main4()
+        public static void Mathematic04()
         {
             while (true)
             {

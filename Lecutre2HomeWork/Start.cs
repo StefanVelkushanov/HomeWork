@@ -7,25 +7,25 @@ namespace Lecutre2HomeWork
 {
     class Start
     {
-        public static void Main(string[] args)
+        public static void nMain(string[] args)
         {
-            //Calculations01.Main5();
-            //Calculations02.Main6();
-            //Calculations03.Main7();
-            //Calculations04.Main8();
-            //Calculations05.Main9();
-            //Calculations06.Main10();
-            //Calculations07.Main11();
-            //Calculations08.Main12();
-            //Calculations09.Main13();
-            //Calculations10.Main14();
-            //Calculations11.Main15();
-            //Conditions01.Main16();
-            //Conditions02.Main17();
-            //Conditions03.Main18();
-            //Conditions04.Main19();
-            //Conditions05.Main20();
-            //Conditions06.Main21();
+            //Calculations01.Calc01();
+            //Calculations02.Calc02();
+            //Calculations03.Calc03();
+            //Calculations04.Calc04();
+            //Calculations05.Calc05();
+            //Calculations06.Calc06();
+            //Calculations07.Calc07();
+            //Calculations08.Calc08();
+            //Calculations09.Calc09();
+            //Calculations10.Calc10();
+            //Calculations11.Calc11();
+            //Conditions01.Cond01();
+            //Conditions02.Cond02();
+            //Conditions03.Cond03();
+            //Conditions04.Cond04();
+            //Conditions05.Cond05();
+            //Conditions06.Cond06();
         }
     }
 }

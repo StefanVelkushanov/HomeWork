@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Lecutre2HomeWork
+namespace Lecture2HomeWork
 {
     class Calculations01
     {
-        public static void Main5()
+        public static void Calc01()
         {
             double a = -1 + 4 * 6;
 
