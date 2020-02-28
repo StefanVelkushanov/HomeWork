@@ -6,7 +6,7 @@ namespace Exercise2
 {
     class Math1
     {
-        public static void NOTRUN(string[] args)
+        public static void Main1()
         {
             while (true)
             {

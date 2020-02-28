@@ -6,7 +6,7 @@ namespace Exercise2
 {
     class Conditions03
     {
-        public static void hhjkMain(string[] args)
+        public static void Main18()
         {
             while (true)
             {

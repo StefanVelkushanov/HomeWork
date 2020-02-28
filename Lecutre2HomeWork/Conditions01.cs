@@ -6,7 +6,7 @@ namespace Exercise2
 {
     class Conditions01
     {
-        public static void hgfMain(string[] args)
+        public static void Main16()
         {
             while (true)
             {

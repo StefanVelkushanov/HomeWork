@@ -4,7 +4,7 @@ namespace Lecutre2HomeWork
 {
     class Calculations02
     {
-        static void aaMain(string[] args)
+        public static void Main6()
         {
             int FirstNumber = 5;
             int SecondNumber = 6;

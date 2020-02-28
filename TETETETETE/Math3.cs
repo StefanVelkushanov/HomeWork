@@ -6,7 +6,7 @@ namespace Exercise2
 {
     class Math3
     {
-        public static void N0TMAIN(string[] args)
+        public static void Main3()
         {
             while (true)
             {

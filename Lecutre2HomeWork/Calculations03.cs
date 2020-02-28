@@ -6,7 +6,7 @@ namespace Exercise2
 {
     class Calculations03
     {
-        public static void asdfMain(string[] args)
+        public static void Main7()
         {
             while (true)
             {

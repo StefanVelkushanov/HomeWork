@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Exercise2
 {
-    class Calculations9
+    class Calculations09
     {
-        public static void asdgMain(string[] args)
+        public static void Main13()
         {
             while (true)
             {

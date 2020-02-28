@@ -4,7 +4,7 @@ namespace Lecutre2HomeWork
 {
     class Calculations01
     {
-        static void f2Main(string[] args)
+        public static void Main5()
         {
             double a = -1 + 4 * 6;
 

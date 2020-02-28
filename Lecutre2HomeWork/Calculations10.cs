@@ -6,7 +6,7 @@ namespace Exercise2
 {
     class Calculations10
     {
-        public static void ddddMain(string[] args)
+        public static void Main14()
         {
             while (true)
             {

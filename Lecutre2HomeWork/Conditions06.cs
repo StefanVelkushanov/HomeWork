@@ -6,11 +6,11 @@ namespace Exercise2
 {
     class Conditions06
     {
-        public static void Main(string[] args)
+        public static void Main21()
         {
             while (true)
             {
-                Console.Write("\n Input first integer: ");
+                Console.Write("\n Input first integer: "); 
 
                 if (double.TryParse(Console.ReadLine(), out double a))
                 {
