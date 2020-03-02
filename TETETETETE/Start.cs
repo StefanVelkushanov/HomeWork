@@ -7,10 +7,10 @@ namespace Lecutre2HomeWork
 {
     class Start
     {
-        public static void Main(string[] args)
+        public static void nMain(string[] args)
         {
             //Math1.Mathematic01();
-            Math2.Mathematic02();
+            //Math2.Mathematic02();
             //Math3.Mathematic03();
             //Math4.Mathematic04();
         }

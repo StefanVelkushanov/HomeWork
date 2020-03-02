@@ -7,7 +7,7 @@ namespace Lecutre2HomeWork
 {
     class Start
     {
-        public static void nMain(string[] args)
+        public static void Main(string[] args)
         {
             //Calculations01.Calc01();
             //Calculations02.Calc02();
@@ -26,6 +26,7 @@ namespace Lecutre2HomeWork
             //Conditions04.Cond04();
             //Conditions05.Cond05();
             //Conditions06.Cond06();
+            //CharactersAndStrings01.CharAndString01();
         }
     }
 }
