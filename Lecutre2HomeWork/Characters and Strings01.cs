@@ -10,7 +10,7 @@ namespace Lecture2HomeWork
         {
             while (true)
             {
-                Console.Write("\n Please enter a : ");
+                Console.Write("\n Please enter a word : ");
                 var a = Console.ReadLine();
 
                 var FirstLetter = a.Substring(0, 1);

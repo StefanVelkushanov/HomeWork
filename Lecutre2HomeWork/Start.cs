@@ -27,6 +27,10 @@ namespace Lecutre2HomeWork
             //Conditions05.Cond05();
             //Conditions06.Cond06();
             //CharactersAndStrings01.CharAndString01();
+            //CharactersAndStrings02.CharAndString02();
+            //CharactersAndStrings03.CharAndString03();
+            //CharactersAndStrings04.CharAndString04();
+            CharactersAndStrings05.CharAndString05();
         }
     }
 }
