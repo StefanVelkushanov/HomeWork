@@ -30,7 +30,8 @@ namespace Lecutre2HomeWork
             //CharactersAndStrings02.CharAndString02();
             //CharactersAndStrings03.CharAndString03();
             //CharactersAndStrings04.CharAndString04();
-            CharactersAndStrings05.CharAndString05();
+            //CharactersAndStrings05.CharAndString05();
+            CharactersAndStrings06.CharAndString06();
         }
     }
 }
