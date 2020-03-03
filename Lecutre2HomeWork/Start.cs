@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lecutre2HomeWork
+namespace Lecture2HomeWork
 {
     class Start
     {
@@ -31,7 +31,13 @@ namespace Lecutre2HomeWork
             //CharactersAndStrings03.CharAndString03();
             //CharactersAndStrings04.CharAndString04();
             //CharactersAndStrings05.CharAndString05();
-            CharactersAndStrings06.CharAndString06();
+            //CharactersAndStrings06.CharAndString06();
+            //DateAndTime01.TimeAndDate01();
+            //DateAndTime02.TimeAndDate02();
+            //DateAndTime03.TimeAndDate03();
+            //DateAndTime04.TimeAndDate04();
+            //DateAndTime05.TimeAndDate05();
+            DateAndTime06.TimeAndDate06();
         }
     }
 }
