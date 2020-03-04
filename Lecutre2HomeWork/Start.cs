@@ -7,7 +7,7 @@ namespace Lecture2HomeWork
 {
     class Start
     {
-        public static void Main(string[] args)
+        public static void aaMain(string[] args)
         {
             //Calculations01.Calc01();
             //Calculations02.Calc02();
@@ -39,7 +39,7 @@ namespace Lecture2HomeWork
             //DateAndTime05.TimeAndDate05();
             //DateAndTime06.TimeAndDate06();
             //DateAndTime07.TimeAndDate07();
-            DateAndTime07.TimeAndDate07();
+            //DateAndTime07.TimeAndDate07();
         }
     }
 }

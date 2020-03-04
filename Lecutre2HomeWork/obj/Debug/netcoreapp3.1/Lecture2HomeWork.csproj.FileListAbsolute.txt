@@ -1,0 +1,11 @@
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\bin\Debug\netcoreapp3.1\Lecture2HomeWork.exe
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\bin\Debug\netcoreapp3.1\Lecture2HomeWork.deps.json
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\bin\Debug\netcoreapp3.1\Lecture2HomeWork.runtimeconfig.json
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\bin\Debug\netcoreapp3.1\Lecture2HomeWork.runtimeconfig.dev.json
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\bin\Debug\netcoreapp3.1\Lecture2HomeWork.dll
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\bin\Debug\netcoreapp3.1\Lecture2HomeWork.pdb
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\obj\Debug\netcoreapp3.1\Lecture2HomeWork.AssemblyInfoInputs.cache
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\obj\Debug\netcoreapp3.1\Lecture2HomeWork.AssemblyInfo.cs
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\obj\Debug\netcoreapp3.1\Lecture2HomeWork.dll
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\obj\Debug\netcoreapp3.1\Lecture2HomeWork.pdb
+C:\Users\TechHuddle\source\repos\TETETETETE\Lecutre2HomeWork\obj\Debug\netcoreapp3.1\Lecture2HomeWork.csprojAssemblyReference.cache
