@@ -4,28 +4,35 @@ using System.Text;
 using Microsoft;
 using System.Linq;
 using Lecture2HomeWork;
+using System.Globalization;
 
 namespace Lecture2HomeWork
 {
     class DateAndTime07
     {
-        public static string TimeAndDate07()
+        public static void TimeAndDate07()
         {
             while (true)
             {
-                DateTime date1 = new DateTime(2016, 8, 1, 0, 0, 0);
-                DateTime date2 = new DateTime(2016, 8, 1, 12, 0, 0);
-                int result = DateTime.Compare(date1, date2);
-                string relationship;
-
-                if (result < 0)
-                    relationship = "is earlier than";
-                else if (result == 0)
-                    relationship = "is the same time as";
+                Console.WriteLine("date1");
+                string EnteredData = Console.ReadLine();
+                Console.WriteLine("date2");
+                string EnteredData2 = Console.ReadLine();
+                var dateTime = DateTime.ParseExact(EnteredData, "dd MM yyyy", CultureInfo.InvariantCulture);
+                var dateTime2 = DateTime.ParseExact(EnteredData2, "dd MM yyyy", CultureInfo.InvariantCulture);
+                if (dateTime > dateTime2)
+                {
+                    Console.WriteLine($"{dateTime}  is later than {dateTime2}");
+                }
+                else if (dateTime < dateTime2)
+                    {
+                    Console.WriteLine($"{dateTime}  is before than {dateTime2}");
+                     
+                    }
                 else
-                    relationship = "is later than";
-
-                Console.WriteLine("{0} {1} {2}", date1, relationship, date2);
+                {
+                    Console.WriteLine($"{dateTime}  is the same time as {dateTime2}");
+                }
             }
         }
     }

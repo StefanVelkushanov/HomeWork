@@ -38,6 +38,7 @@ namespace Lecture2HomeWork
             //DateAndTime04.TimeAndDate04();
             //DateAndTime05.TimeAndDate05();
             //DateAndTime06.TimeAndDate06();
+            //DateAndTime07.TimeAndDate07();
             DateAndTime07.TimeAndDate07();
         }
     }
