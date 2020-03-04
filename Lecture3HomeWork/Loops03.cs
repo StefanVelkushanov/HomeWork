@@ -9,15 +9,27 @@ namespace Lecture3HomeWork
     {
         public static void Loop03()
         {
-            double sum = 0;
-
-            for (int i = 1; i <= 10; i++)
+            while (true)
             {
-                Console.WriteLine($"Enter number {i}");
-                sum += double.Parse(Console.ReadLine());
-            }
+                Console.Write($"\n Enter number: ");
+                double enteredNumber = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($" \n The sum of the numbers is: {sum} \n The Averige is: {sum /10}");
+                if (enteredNumber > 0)
+                {
+                    double sum = 0;
+                    Console.Write($"\n Odd numbers:");
+                    for (int i = 1; i <= enteredNumber; i += 2)
+                    {
+                        Console.Write($" {i}");
+                        sum += i;
+                    }
+                    Console.WriteLine($"\n The sum of them is: {sum}");
+                }
+                else
+                {
+                    Console.WriteLine("\n Please enter positive number.");
+                }
+            }
         }
     }
 }
